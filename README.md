@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img alt="Gerard Castell — Software & AI Engineer" src="./assets/banner-dark.svg" width="100%">
+    <img alt="Gerard Castell · Software & AI Engineer" src="./assets/banner-dark.svg" width="100%">
   </picture>
 </p>
 
@@ -18,8 +18,8 @@
 ### About
 
 Software & AI Engineer at **[MANGO](https://www.mango.com)**, where I work on the IRIS virtual assistant and
-the platform around it. I spend most of my time on the unglamorous half of AI — evaluation,
-observability, guardrails, cost and latency — because that is what decides whether a demo
+the platform around it. I spend most of my time on the unglamorous half of AI: evaluation,
+observability, guardrails, cost and latency. That is what decides whether a demo
 survives contact with production traffic.
 
 - 🤖 Architected an **autonomous agent ecosystem** for task delegation and decision-making inside the assistant
@@ -42,7 +42,7 @@ survives contact with production traffic.
 | **[IRIS Customer Assistant](https://www.gerardcastell.dev)** · MANGO | Production conversational assistant: intent detection, generative answers, agentic task delegation, full eval harness | `Python` `Dialogflow CX` `Vertex AI` `GCP` |
 | **[PII Multimodal Anonymizer](https://www.gerardcastell.dev)** · MANGO | GDPR-compliant anonymization pipeline over images and video using fine-tuned YOLOv8 detectors | `PyTorch` `YOLOv8` `OpenCV` |
 | **[Realtime Traffic Sign Detection](https://www.gerardcastell.dev)** | Low-latency detector designed for edge-oriented inference | `PyTorch` `OpenCV` `CNN` |
-| **[Portfolio](https://www.gerardcastell.dev)** | Chat-driven portfolio — the whole CV explored through a conversational UI | `Next.js 16` `React 19` `Tailwind v4` `GSAP` |
+| **[Portfolio](https://www.gerardcastell.dev)** | Chat-driven portfolio: the whole CV explored through a conversational UI | `Next.js 16` `React 19` `Tailwind v4` `GSAP` |
 
 > Work marked **· MANGO** lives in private company repositories. Write-ups and demos are on [gerardcastell.dev](https://www.gerardcastell.dev).
 
@@ -99,13 +99,13 @@ survives contact with production traffic.
 ### Experience
 
 ```text
-Mar 2025 — now    Software & AI Engineer    MANGO · Barcelona
+Mar 2025 - now    Software & AI Engineer    MANGO · Barcelona
                   Agent architectures, GenAI evaluation & observability, multimodal, fine-tuning
 
-Jun 2023 — 2025   Software Engineer         MANGO · Barcelona
+Jun 2023 - 2025   Software Engineer         MANGO · Barcelona
                   IRIS virtual assistant: NLU optimization, computer vision module, GCP microservices
 
-Jun 2022 — 2023   Software Engineer Intern  MANGO · Barcelona
+Jun 2022 - 2023   Software Engineer Intern  MANGO · Barcelona
                   Microservices, legacy refactors, first hands on GCP
 ```
 
