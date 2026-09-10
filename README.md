@@ -10,7 +10,6 @@
   <a href="https://www.gerardcastell.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-gerardcastell.dev-ff4f36?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gerardcastell/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ge.castell@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-ge.castell%40outlook.com-262626?style=for-the-badge&logo=maildotru&logoColor=white"></a>
-  <img alt="Location" src="https://img.shields.io/badge/Barcelona-ES-262626?style=for-the-badge&logo=googlemaps&logoColor=white">
 </p>
 
 ---
