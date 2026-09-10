@@ -52,32 +52,32 @@ survives contact with production traffic.
 
 **AI & ML**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=e5e5e5)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=e5e5e5)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=flat-square&logo=tensorflow&logoColor=e5e5e5)
+![LangChain](https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1a1a1a?style=flat-square&logo=langchain&logoColor=e5e5e5)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1a1a1a?style=flat-square&logo=huggingface&logoColor=e5e5e5)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1a1a?style=flat-square&logo=opencv&logoColor=e5e5e5)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-1a1a1a?style=flat-square&logo=googlecloud&logoColor=e5e5e5)
+![Qdrant](https://img.shields.io/badge/Qdrant-1a1a1a?style=flat-square&logo=qdrant&logoColor=e5e5e5)
 
 **Backend & Infra**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=e5e5e5)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=e5e5e5)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=e5e5e5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=e5e5e5)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=e5e5e5)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=e5e5e5)
+![GCP](https://img.shields.io/badge/Google%20Cloud-1a1a1a?style=flat-square&logo=googlecloud&logoColor=e5e5e5)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=e5e5e5)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=e5e5e5)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=e5e5e5)
+![GSAP](https://img.shields.io/badge/GSAP-1a1a1a?style=flat-square&logo=greensock&logoColor=e5e5e5)
+![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logo=figma&logoColor=e5e5e5)
 
 ---
 
