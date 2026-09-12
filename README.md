@@ -25,7 +25,7 @@ survives contact with production traffic.
 - 📊 Built a **production monitoring & evaluation system** for GenAI (tracing, evals, feedback loops)
 - 🖼️ Shipped **multimodal (text + vision)** capabilities and fine-tuned models under strict privacy constraints
 - ⚙️ Automated internal workflows with GenAI for a **>30% efficiency gain**
-- 🎓 MSc in Artificial Intelligence (UNIR, 9.5/10) · BSc Computer Science Engineering (UPC, 9.3/10)
+- 🎓 MSc in Artificial Intelligence (UNIR, Thesis: 9.5/10) · BSc Computer Science Engineering (UPC, Thesis: 9.3/10)
 
 ### Currently
 
